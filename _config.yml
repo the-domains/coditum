@@ -1,0 +1,14 @@
+layout_spectrum: 0.3381113
+color:
+  saturation: 0.5404721
+  brandStrength: 0.7670818
+  lightness: 0.2782462
+  rhythmicContrast: 0.677909
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.2048904
+name: Coditum
