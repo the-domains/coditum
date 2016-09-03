@@ -1,4 +1,4 @@
-layout_spectrum: 0.3381113
+typography_spectrum: 0.2048904
 color:
   saturation: 0.5404721
   brandStrength: 0.7670818
@@ -10,5 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.2048904
+layout_spectrum: 0.3381113
 name: Coditum
+description: The Best Possible Place To Learn To Code
